@@ -21,3 +21,55 @@ My goal: Build a strong foundation in problem-solving and prepare for top tech i
 
 ## 📂 Folder Structure
 
+---
+
+## 🛠 Topics Covered
+
+- Arrays & Sorting
+- Searching & Binary Search
+- Hashing (Maps & Sets)
+- Linked Lists
+- Stacks & Queues
+- Recursion & Backtracking
+- Bit Manipulation
+- Trees & BSTs
+- Graphs
+- Dynamic Programming
+- and more...
+
+---
+
+## ✨ How to Use This Repo
+
+If you're preparing for coding interviews:
+- Browse the folders by topic.
+- Read my code and comments.
+- Try solving the problems yourself before checking the solutions.
+
+---
+
+## 📈 My Progress
+
+I am committing 1–2 hours daily to this journey.  
+**Progress so far:**  
+- Problems Solved: XX (update regularly!)
+- Weeks Completed: YY
+
+---
+
+## 🤝 Connect with Me
+
+Feel free to reach out if you’d like to discuss DSA or collaborate!
+
+🌐 [LinkedIn](https://www.linkedin.com)  
+📧 your-email@example.com  
+
+---
+
+## 🙏 Acknowledgments
+
+- Striver (Take U Forward)
+- NeetCode
+- LeetCode community
+
+---
