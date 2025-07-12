@@ -61,8 +61,8 @@ I am committing 1–2 hours daily to this journey.
 
 Feel free to reach out if you’d like to discuss DSA or collaborate!
 
-🌐 [LinkedIn](https://www.linkedin.com)  
-📧 your-email@example.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/unnati-girase-2a3abb280/)
+📧 unnatigirase03@gmail.com
 
 ---
 
