@@ -6,7 +6,7 @@ Today, I'm covering lecture 8 which is on Arrays. Then i will solve one problem 
 
 ## 📚 Lectures Covered
 
-- **Lecture 3**: Arrays
+- **Lecture 8**: Arrays
 
 ---
 
