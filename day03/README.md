@@ -1,6 +1,6 @@
 # Day 3
 
-Today, I'm covering lecture 9 which is on Vectors. Then i will solve one problem from leetcode and one from codeforces.
+Today, I'm covering lecture 9 which is on Vectors. Then i will solve one problem from leetcode and one from codechef.
 
 ---
 
