@@ -3,9 +3,7 @@
 using namespace std;
 
 int main() {
-    int n=5; 
-    int arr[n]={1,2,3,4,5};
-    
+    vector<int> vec = {1,2,3,4,5};
 
     /* for printing subarrays
     for (int i=0; i<n; i++) {
@@ -30,6 +28,17 @@ int main() {
     }
     cout<<maxSum;
     */
+
+    int currSum = 0, maxSum = vec[0];
+    for (int val : vec) {
+        currSum += val;
+        maxSum = max(currSum, maxSum);
+
+        if(currSum<0) {
+            currSum=0;
+        }
+    }
+    cout<<maxSum;
 
     return 0;
 }
