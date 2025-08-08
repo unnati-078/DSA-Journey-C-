@@ -4,7 +4,7 @@ Hey there!
 
 This repo is where I’m documenting my 120-day journey to master **Data Structures & Algorithms in C++**.
 
-Starting from **Day 0 (20th July 2025)**, I’ll be solving problems daily using the **Apna College C++ DSA playlist**, along with handpicked questions from **LeetCode** and **Codeforces**.
+Starting from **Day 0 (20th July 2025)**, I’ll be solving problems daily using the **Apna College C++ DSA playlist**, along with handpicked questions from **LeetCode**.
 
 ---
 
@@ -18,7 +18,7 @@ Starting from **Day 0 (20th July 2025)**, I’ll be solving problems daily using
 ---
 
 Each day has:
-- ✅ LeetCode & Codeforces problems
+- ✅ LeetCode problems
 - ✅ Notes or observations
 - ✅ C++ solutions
 
@@ -26,7 +26,8 @@ Each day has:
 
 ## 🧠 Topics I’ll Cover
 
-- Arrays & Sorting  
+- Arrays & Sorting 
+- Time & Space Complexity 
 - Searching & Binary Search  
 - Hashing (Maps & Sets)  
 - Linked Lists  
@@ -51,8 +52,8 @@ This repo is my way of staying accountable and sharing the journey.
 
 - ⏳ Started: 20th July 2025  
 - 🧠 Committing: 1–2 hours daily  
-- ✅ Days Completed: XX  
-- 🔢 Problems Solved: YY  
+- ✅ Days Completed: 6  
+- 🔢 Problems Solved: 5 
 (Updating this regularly!)
 
 ---
@@ -69,7 +70,7 @@ If you’re on a similar journey or just want to talk DSA, feel free to connect:
 ## 🙌 Shoutouts
 
 - Apna College  
-- LeetCode & Codeforces communities  
+- LeetCode communities  
 - Everyone sharing helpful DSA content!
 
 ---
