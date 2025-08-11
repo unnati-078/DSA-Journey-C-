@@ -1,12 +1,11 @@
-# Day 6
+# Day 7
 
-Today, I'm covering lecture 12 which is on Time and Space Complexity. 
-Also today i started solving problems from 3 months prep kit of hackerrank.
+Today, I'm covering lecture 13 which is on Buy and Sell Stock Problem and Pow(X,N) Power exponential Problem. 
 ---
 
 ## 📚 Lectures Covered
 
-- **Lecture 12**: Time & Space Complexity
+- **Lecture 13**: Buy and Sell Stock Problem and Pow(X,N) Power exponential Problem - Leetcode | DSA Series
 ---
 
 ## ✅ What I Learned
