@@ -10,4 +10,5 @@ Today, I'm covering lecture 15 which is on Product of an array except self Probl
 
 ## ✅ Problems Solved
 
-- Solved container with most water problem on leetcode
+- Solved Product of Array Except Self problem on leetcode
+- Solved Min Max Sum problem on HackerRank

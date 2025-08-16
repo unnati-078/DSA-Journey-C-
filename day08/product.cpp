@@ -2,21 +2,6 @@
 #include <vector>
 using namespace std;
 
-// Forward declare the function (or move the full definition above main)
-vector<int> productExceptSelf(vector<int>& nums);
-
-int main() {
-    vector<int> sample = {1, 2, 3, 4};
-    vector<int> result = productExceptSelf(sample);
-
-    // Print result
-    for (int x : result) {
-        cout << x << " ";
-    }
-    cout << endl;
-    return 0;
-}
-
 vector<int> productExceptSelf(vector<int>& nums) {
     int n = nums.size();
     vector<int> answer(n, 1);
@@ -37,3 +22,16 @@ vector<int> productExceptSelf(vector<int>& nums) {
 
     return answer;
 }
+
+int main() {
+    vector<int> sample = {1, 2, 3, 4};
+    vector<int> result = productExceptSelf(sample);
+
+    // Print result
+    for (int x : result) {
+        cout << x << " ";
+    }
+    cout << endl;
+    return 0;
+}
+
